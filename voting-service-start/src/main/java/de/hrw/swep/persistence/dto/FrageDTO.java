@@ -22,8 +22,7 @@ public class FrageDTO {
     /**
      * Konstruktor
      * 
-     * @param id
-     *            die Fragen-ID
+     * @param id 
      * @param text
      *            der Text der Fragestellung
      * @param status

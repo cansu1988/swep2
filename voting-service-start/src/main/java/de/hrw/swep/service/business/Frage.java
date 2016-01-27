@@ -22,8 +22,8 @@ public class Frage {
 
     /**
      * Konstruktor
-     * @param id die Frage ID
-     * @param text die Fragestellung
+     * @param id ba
+     * @param text 
      * @param status der Status (offen oder geschlossen)
      * @param antworten die Liste aller Antwortoptionen
      * @param stimmen die Liste der Stimmen pro Antwort aus der Abstimmung
