@@ -116,6 +116,7 @@ public class VotingServiceTest {
     /**
      * Prueft, ob ein Voting zu einer geschlossenen Frage die erwartete
      * Exception ausloest.
+     * canuu ist cool
      */
     @Test(expected = IllegalStateException.class)
     public void testAbstimmenBeiGeschlossenerFrage() {
