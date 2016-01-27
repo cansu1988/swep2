@@ -84,7 +84,7 @@ public class FrageDTO {
     }
 
     /**
-     * Setzt den Status der Frage
+     * Setzt den Status der Fragehgjghgjk
      * 
      * @param status
      *            der Status (offen/geschlossen)
